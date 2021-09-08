@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "ITIS6177",
+      "author": "Hari",
+      "id": 2
+    },
+    {
+      "title": "ITIS3310",
+      "author": "Venkatesh",
+      "id": 3
+    },
+    {
+      "title": "ITIS5180",
+      "author": "Mohammad",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
